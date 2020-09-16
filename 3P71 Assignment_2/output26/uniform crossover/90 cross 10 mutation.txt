@@ -1,0 +1,2254 @@
+seed 1
+Generation: 1
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5491095036655664
+Average population fitness value of this generation: 0.7057679792304713
+sdbmbwfynduasecllpiesbaolp
+
+Generation: 2
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5502591675996782
+Average population fitness value of this generation: 0.6953199404040513
+thbwddsstseveqznbilaliihch
+
+Generation: 3
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5122958491742611
+Average population fitness value of this generation: 0.6871854849368723
+ahbzdhfstpevhkmnbzlalsahcd
+
+Generation: 4
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.505183404147625
+Average population fitness value of this generation: 0.6782380176348876
+uaeiisqlqpyzbeztheblcmkaro
+
+Generation: 5
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.48418313454985623
+Average population fitness value of this generation: 0.6692986211616403
+rhesgzplyflcrswurejaslmhbe
+
+Generation: 6
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.46033734811842447
+Average population fitness value of this generation: 0.6600077707707174
+vaikfpqsgpedijclbutasscotd
+
+Generation: 7
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4848524853974581
+Average population fitness value of this generation: 0.6500898745357387
+tpsspsaqumeajecaodfhhbsoei
+
+Generation: 8
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4584664038985968
+Average population fitness value of this generation: 0.6344039708361855
+ghnstsgsuyaheociciknsoawgt
+
+Generation: 9
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.42499920238256456
+Average population fitness value of this generation: 0.6177059449257688
+vhrdvsssbssriecqsypagsiswd
+
+Generation: 10
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3882230252206326
+Average population fitness value of this generation: 0.5973081951968294
+thisinasaiwsseqattfanuwoei
+
+Generation: 11
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.37875288048088546
+Average population fitness value of this generation: 0.5767773304449958
+vhbsumahctpisenvdvtassshrp
+
+Generation: 12
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.38038072213977575
+Average population fitness value of this generation: 0.5573932827027224
+theuwsksbwizsekurefrssloiz
+
+Generation: 13
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.34601659119576217
+Average population fitness value of this generation: 0.5361857880359652
+lpiswelsdfagsscorrtasswoce
+
+Generation: 14
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.30777938346415756
+Average population fitness value of this generation: 0.5180447296766795
+bscwisasjpegsacuregewfwerj
+
+Generation: 15
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.271710309664905
+Average population fitness value of this generation: 0.4987486329723416
+vnesisasupessicussiasszpgd
+
+Generation: 16
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.28534135203808547
+Average population fitness value of this generation: 0.47739134908479164
+ihistsasrpuzsecvrelvsswunz
+
+Generation: 17
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.25111433407366274
+Average population fitness value of this generation: 0.45749534203968706
+asisilasepersqpurriassjowd
+
+Generation: 18
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.23714003245458007
+Average population fitness value of this generation: 0.4375417267121189
+itesimasupessscarevassmhrd
+
+Generation: 19
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.21956761522591114
+Average population fitness value of this generation: 0.41704745220406364
+thistsasnpeilecfrelasswanm
+
+Generation: 20
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.20683828891664743
+Average population fitness value of this generation: 0.3983901749075701
+sbtsisasuparsoqhrepassjord
+
+Generation: 21
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.19545433905422685
+Average population fitness value of this generation: 0.38079381937130186
+thisislsupeisevureqatssgrd
+
+Generation: 22
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.15416761313043537
+Average population fitness value of this generation: 0.3638386063291057
+thisisasupersepfdeeasswero
+
+Generation: 23
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.15291270996779205
+Average population fitness value of this generation: 0.3477394527049149
+bhesisasupeisesuretassmord
+
+Generation: 24
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.13158821732625367
+Average population fitness value of this generation: 0.3304139959837601
+ttesbsasupersecurepasswdrd
+
+Generation: 25
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.12981552933566273
+Average population fitness value of this generation: 0.3146203979047239
+thisisasupersesurehassworu
+
+Generation: 26
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.12120883525907995
+Average population fitness value of this generation: 0.3033610485357309
+tlisisasupersecfrepessjord
+
+Generation: 27
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.11581499922052026
+Average population fitness value of this generation: 0.28431632615541663
+ghcstsasueersecuresassword
+
+Generation: 28
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10681526509299875
+Average population fitness value of this generation: 0.26788937158178955
+thisisasupersupureiassword
+
+Generation: 29
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10830763813443482
+Average population fitness value of this generation: 0.2533068125281357
+thisisasupersepurenasswors
+
+Generation: 30
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10450094545483589
+Average population fitness value of this generation: 0.24003572191693462
+thisisasupeisecurepasslord
+
+Generation: 31
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.087742695283005
+Average population fitness value of this generation: 0.23009813718256997
+thisisasuperseaurepassword
+
+Generation: 32
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08990494436863809
+Average population fitness value of this generation: 0.2179173099978659
+thisisasupersepurepassword
+
+Generation: 33
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08771780741252004
+Average population fitness value of this generation: 0.20889944163404392
+thisisasupersecureiassjord
+
+Generation: 34
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0862200750119984
+Average population fitness value of this generation: 0.19605326864945669
+thcsisasupersepurepassword
+
+Generation: 35
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.1848094537929411
+thisisasupersecurepassjord
+
+Generation: 36
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.17814507436722718
+thisisasupersecurepassjord
+
+Generation: 37
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.17345866223621095
+thisisasupersecurepassjord
+
+Generation: 38
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.16775034398944805
+thisisasupersecurepassjord
+
+Generation: 39
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.1621498518579839
+thisisasupersecurepassjord
+
+Generation: 40
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.16085559208569128
+thisisasupersecurepassjord
+
+Generation: 41
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.15394132379825515
+thisisasupersecurepassjord
+
+Generation: 42
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.15562364598519904
+thisisasupersecurepassjord
+
+Generation: 43
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.15083583997856523
+thtsisasupersecurepassjord
+
+Generation: 44
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.15085795904281527
+thtsisasupersecurepassjord
+
+Generation: 45
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.14849184719454941
+thtsisasupersecurepassjord
+
+Generation: 46
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.14885243731473494
+thtsisasupersecurepassjord
+
+Generation: 47
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.14338094236583288
+thtsisasupersecurepassjord
+
+Generation: 48
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.14585530553286133
+thtsisasupersecurepassjord
+
+Generation: 49
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.144853813814031
+thtsisasupersecurepassjord
+
+Generation: 50
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.1421555366989776
+thtsisasupersecurepassjord
+
+seed 2
+Generation: 1
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5347831345498562
+Average population fitness value of this generation: 0.7061065604665727
+ulzsmslahgivsuvymqdesdsekw
+
+Generation: 2
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.53103721331954
+Average population fitness value of this generation: 0.6951153260238421
+unzsmsishbivldvymadesdsekt
+
+Generation: 3
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5297052348047495
+Average population fitness value of this generation: 0.6862242916372253
+ahzrdsasulkisoiuglgjzebscs
+
+Generation: 4
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.48111754316985617
+Average population fitness value of this generation: 0.6787811554367144
+wlqscoyotpuosdjdiepwsssead
+
+Generation: 5
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4959496676594019
+Average population fitness value of this generation: 0.6689394091882357
+thissuweuupshepteecqdlavvj
+
+Generation: 6
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4451172679841519
+Average population fitness value of this generation: 0.657867018990232
+uhicohssopedveponalitrssrd
+
+Generation: 7
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4430714890033007
+Average population fitness value of this generation: 0.6448096098824041
+gbnstsgsopawsfdujeoejhbonh
+
+Generation: 8
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4416883470028639
+Average population fitness value of this generation: 0.6289953809214768
+dnjsvfbsuplrsjcocuplwbsovs
+
+Generation: 9
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.43426478817462927
+Average population fitness value of this generation: 0.6121374688588348
+esesnaahuhyrsecbsbpwjsddhh
+
+Generation: 10
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3822514098003507
+Average population fitness value of this generation: 0.5933710048214307
+lciswosaudysseyudppasssaru
+
+Generation: 11
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.38015314449071885
+Average population fitness value of this generation: 0.5758219648962939
+gsiszsasrcensvngcspbsnsdld
+
+Generation: 12
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3469135252803564
+Average population fitness value of this generation: 0.5532965743504634
+aheswuwsuoensecukepwsdnbhs
+
+Generation: 13
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3394677332609892
+Average population fitness value of this generation: 0.534658009721585
+tfisishsupebsyoereldswwoke
+
+Generation: 14
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.32749557305723426
+Average population fitness value of this generation: 0.5149382533032545
+tsisesaokeermfcunsppstpkrd
+
+Generation: 15
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.29079839545190334
+Average population fitness value of this generation: 0.4923303174765224
+uhisoseydctrsetmdetatswors
+
+Generation: 16
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.24753842185288663
+Average population fitness value of this generation: 0.4738053490469124
+icesnsasupeclecgropyssvord
+
+Generation: 17
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.26101364983469244
+Average population fitness value of this generation: 0.4541118789054167
+uhisvsasupphsrpqrelfsnsorh
+
+Generation: 18
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.20789933718144893
+Average population fitness value of this generation: 0.43669357777138823
+iheshsasuaersepulrsasswzrd
+
+Generation: 19
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.21474617592692377
+Average population fitness value of this generation: 0.41690900038804984
+lhisisesuperseiyrapasswoge
+
+Generation: 20
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.20336251708269118
+Average population fitness value of this generation: 0.39801854163997874
+thesstasuperlecurelposword
+
+Generation: 21
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.164786619297415
+Average population fitness value of this generation: 0.38079211021899917
+tyisjswsuperoecurepassford
+
+Generation: 22
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1388273210898042
+Average population fitness value of this generation: 0.3635311841155616
+thesisasupeosdcureeassword
+
+Generation: 23
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.15039651664942505
+Average population fitness value of this generation: 0.3440673904122273
+thisiseshpprsecurepessstrd
+
+Generation: 24
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1393820729225874
+Average population fitness value of this generation: 0.3248832824219835
+thvsisasuperwewuretagsword
+
+Generation: 25
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.11932502881027758
+Average population fitness value of this generation: 0.30922859779804196
+twisisasupepiecurepassword
+
+Generation: 26
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.12161473148539663
+Average population fitness value of this generation: 0.29177552385803585
+ghisisasutegsecurepasswond
+
+Generation: 27
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.103651406307891
+Average population fitness value of this generation: 0.27592793402171406
+tsisisasupersepurepnssword
+
+Generation: 28
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1071646554712206
+Average population fitness value of this generation: 0.26068650914885905
+thmsisasbpersecurepassword
+
+Generation: 29
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10555581858232617
+Average population fitness value of this generation: 0.2473315452508587
+thisisastpersecirepassword
+
+Generation: 30
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.09324604601748289
+Average population fitness value of this generation: 0.23447989018412108
+thisisasupersepureaarsword
+
+Generation: 31
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08957589999716727
+Average population fitness value of this generation: 0.22188414237204493
+thisisasuperfecurepasspord
+
+Generation: 32
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08742864556275308
+Average population fitness value of this generation: 0.21262883524325613
+thisisasucersecurepassuord
+
+Generation: 33
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08742864556275308
+Average population fitness value of this generation: 0.2014494218611993
+thisisasucersecurepassuord
+
+Generation: 34
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08424310535490513
+Average population fitness value of this generation: 0.1906996653230918
+thisisasucersecurepassword
+
+Generation: 35
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08400481969788669
+Average population fitness value of this generation: 0.18262151476384328
+thisisasucersecurepassqord
+
+Generation: 36
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.17595789279148824
+thisisasupersecurepassjord
+
+Generation: 37
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.17003943603273647
+thvsisasupersecurepassqord
+
+Generation: 38
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.1619277857955959
+thvsisasupersecurepassqord
+
+Generation: 39
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.16141520340232315
+thvsisasupersecurepassqord
+
+Generation: 40
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.15797866259149107
+thvsisasupersecurepassqord
+
+Generation: 41
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.15219483599524117
+thvsisasupersecurepassqord
+
+Generation: 42
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.15219308244462765
+thvsisasupersecurepassqord
+
+Generation: 43
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14967846999435497
+thvsisasupersecurepassqord
+
+Generation: 44
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.15274205141440564
+thvsisasupersecurepassqord
+
+Generation: 45
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.1506348095006545
+thvsisasupersecurepassqord
+
+Generation: 46
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.1486267203958216
+thvsisasupersecurepassqord
+
+Generation: 47
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14687806175758059
+thvsisasupersecurepassqord
+
+Generation: 48
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14818339101410705
+thvsisasupersecurepassqord
+
+Generation: 49
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14981473127123068
+thvsisasupersecurepassqord
+
+Generation: 50
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14389874956330392
+thvsisasupersecurepassqord
+
+seed 3
+Generation: 1
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5407957199633121
+Average population fitness value of this generation: 0.7056849830415346
+zwreyotsusfmpvcdsrpbgclowd
+
+Generation: 2
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5486907640695572
+Average population fitness value of this generation: 0.6940176932684107
+dpisgsbspmrsoonqvgkqtsosse
+
+Generation: 3
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5388254329741001
+Average population fitness value of this generation: 0.6845293996933713
+itiljousybsdfwjgrzgbpdsbrq
+
+Generation: 4
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.511626236179471
+Average population fitness value of this generation: 0.6753953005457007
+tlsfppdsirshseyyrcotssszca
+
+Generation: 5
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.48538474282324323
+Average population fitness value of this generation: 0.6657213609809324
+ydnsulbsdpeqstodnrjbtwjonq
+
+Generation: 6
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.48231887998282913
+Average population fitness value of this generation: 0.6553737618597453
+btrscousefarwwserdpzpdshrf
+
+Generation: 7
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.45171673344522717
+Average population fitness value of this generation: 0.6404614049598853
+ddecsonsmlersrpensaatujovo
+
+Generation: 8
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.442539495587349
+Average population fitness value of this generation: 0.6240650005503315
+qhpiifasdehhjcpeiepwswworg
+
+Generation: 9
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.41806185426414016
+Average population fitness value of this generation: 0.6039481820330245
+povwomasqtehveeosstatqwbrd
+
+Generation: 10
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.36786104547083376
+Average population fitness value of this generation: 0.5859657416230819
+ghisvfasdclvnudpiepzsswocd
+
+Generation: 11
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.383689696854353
+Average population fitness value of this generation: 0.5642407384987114
+shrwisauuwerldoksetilssare
+
+Generation: 12
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.35706023481488225
+Average population fitness value of this generation: 0.545286110736128
+ttzshrssuqpvhepenepasssvre
+
+Generation: 13
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.32312181482464075
+Average population fitness value of this generation: 0.5244445076589886
+shimtshuueeqfeouretatdjarh
+
+Generation: 14
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.30069022394269707
+Average population fitness value of this generation: 0.5044545814200547
+mnisesasuberseolnsglsesord
+
+Generation: 15
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.2820412340030074
+Average population fitness value of this generation: 0.48655727234402485
+thjshiestwereecpregacslord
+
+Generation: 16
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.23809210553914303
+Average population fitness value of this generation: 0.4672292316443485
+ehusoeasuparserurepaqsbord
+
+Generation: 17
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.2630503388598561
+Average population fitness value of this generation: 0.4439979307656511
+shvdmsasqfersepusbclsssard
+
+Generation: 18
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.22253948953375216
+Average population fitness value of this generation: 0.42263646903771224
+thmsosasmperleouselasssorn
+
+Generation: 19
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.19272744471281764
+Average population fitness value of this generation: 0.4012936174990657
+ihusisasmlersesgretasswold
+
+Generation: 20
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1695502094160765
+Average population fitness value of this generation: 0.3862202589682582
+thislsasupersecqtesateword
+
+Generation: 21
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1649405602414161
+Average population fitness value of this generation: 0.3661699261387101
+ihusisasfpersenureaassworw
+
+Generation: 22
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.14840025935322046
+Average population fitness value of this generation: 0.346052513381487
+thisssasurersecueepassdkrd
+
+Generation: 23
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.12162945124194958
+Average population fitness value of this generation: 0.3285151330578336
+thisisasupersenureaadsword
+
+Generation: 24
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.13485728670172395
+Average population fitness value of this generation: 0.3113612414144753
+ihisiscsupersecvrepassoord
+
+Generation: 25
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1117542256757617
+Average population fitness value of this generation: 0.2948428750359018
+rhisisasqpersepurepassjord
+
+Generation: 26
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10594510219246149
+Average population fitness value of this generation: 0.2784474775708573
+thisisasueersepuretassjord
+
+Generation: 27
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10487577555924656
+Average population fitness value of this generation: 0.26406150952846835
+thisisasupersephretasssord
+
+Generation: 28
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.09569477055035532
+Average population fitness value of this generation: 0.24703472542928434
+thisisasupersecurecasssord
+
+Generation: 29
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.09569477055035532
+Average population fitness value of this generation: 0.23490605969993295
+thisisasupersecurecasssord
+
+Generation: 30
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.09126265397705137
+Average population fitness value of this generation: 0.2209371292633687
+thisisasucersepurepassword
+
+Generation: 31
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.21238467546348688
+thisisasupersecurepassjord
+
+Generation: 32
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08574109466392545
+Average population fitness value of this generation: 0.19985333344753486
+thisisasbpersecurepassjord
+
+Generation: 33
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08574109466392545
+Average population fitness value of this generation: 0.19037516341823565
+thisisasbpersecurepassjord
+
+Generation: 34
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08424310535490513
+Average population fitness value of this generation: 0.1815012729417656
+thisisasucersecurepassword
+
+Generation: 35
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.17471341075804242
+thisisasupersecurepassjord
+
+Generation: 36
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08424310535490513
+Average population fitness value of this generation: 0.1674877292985103
+thisisasucersecurepassword
+
+Generation: 37
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.16180486618333614
+thisisasupersecurepassjord
+
+Generation: 38
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.1591028781205155
+thisisasupersecurepassjord
+
+Generation: 39
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.15587522095343
+thisisasupersecurepassjord
+
+Generation: 40
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.1509741280167463
+thisisasupersecurepassjord
+
+Generation: 41
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.14999850664861497
+thisisasupersecurepassjord
+
+Generation: 42
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14932169920837965
+thvsisasupersecurepassqord
+
+Generation: 43
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.14914426774734746
+thtsisasupersecurepassjord
+
+Generation: 44
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.14934364471700398
+thtsisasupersecurepassjord
+
+Generation: 45
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.1460152625785926
+thvsisasupersecurepassqord
+
+Generation: 46
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.14598591442753983
+thtsisasupersecurepassjord
+
+Generation: 47
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14343991271855303
+thvsisasupersecurepassqord
+
+Generation: 48
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.14379640228798363
+thtsisasupersecurepassjord
+
+Generation: 49
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.1443608857489311
+thtsisasupersecurepassjord
+
+Generation: 50
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.1431903201080696
+thtsisasupersecurepassjord
+
+seed 4
+Generation: 1
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5503111100763083
+Average population fitness value of this generation: 0.7065229595852331
+qiqossnyjpjvsicqaiunsqejdn
+
+Generation: 2
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5766963827818632
+Average population fitness value of this generation: 0.6953978937036853
+stfsuorshgvmuajiifpfsrqnse
+
+Generation: 3
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5180382842600345
+Average population fitness value of this generation: 0.6857169825277759
+fsrhuwzsjwesbvkbrkmgsdskrh
+
+Generation: 4
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5172358746439218
+Average population fitness value of this generation: 0.677843836891231
+dbhftsdslpqrmdrndppqwwlohw
+
+Generation: 5
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.461958233320713
+Average population fitness value of this generation: 0.6695832084451918
+thjspzazuffwbetirppwmksaah
+
+Generation: 6
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4345341427475214
+Average population fitness value of this generation: 0.6589924666094595
+phestsdsuoqrzdkudpjqwwqoya
+
+Generation: 7
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4540816610753537
+Average population fitness value of this generation: 0.6470378713091268
+srrsisjlnlijsecyhjllsusoen
+
+Generation: 8
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4452246297687292
+Average population fitness value of this generation: 0.6305908798015949
+elisooayksibitnhletassseve
+
+Generation: 9
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.39755608212649823
+Average population fitness value of this generation: 0.6105620194858545
+alisjsarubeebiatwdjpshword
+
+Generation: 10
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4189657280415296
+Average population fitness value of this generation: 0.5902212814898622
+lsjsteamcoeheacuveiasoadfd
+
+Generation: 11
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.32392825630009175
+Average population fitness value of this generation: 0.5709798788497633
+ulisssssjoprsesudmpassafrn
+
+Generation: 12
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3101539476960898
+Average population fitness value of this generation: 0.5514934079589225
+ushthsasuoersrcrwaiasfsord
+
+Generation: 13
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3195244921758771
+Average population fitness value of this generation: 0.5327421080321395
+shicssqsqteoztcussfatssord
+
+Generation: 14
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3074763110294938
+Average population fitness value of this generation: 0.5123274280299066
+tsmszswshpeusipevraasswdrd
+
+Generation: 15
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.26999303329885005
+Average population fitness value of this generation: 0.4917623455720354
+tsmsssajhleusipuvypasssord
+
+Generation: 16
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.23979679462909695
+Average population fitness value of this generation: 0.4737968650614246
+rhrsisasupeszerqrepassswod
+
+Generation: 17
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1986763082355261
+Average population fitness value of this generation: 0.45167199731447943
+thesusesqtepsectrefasssord
+
+Generation: 18
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.20946130948066707
+Average population fitness value of this generation: 0.43368544009956794
+jhisioaswpeneethreaassword
+
+Generation: 19
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.20030281773805617
+Average population fitness value of this generation: 0.41601446303435524
+ihinioaseptrsesucepassword
+
+Generation: 20
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1858971897125244
+Average population fitness value of this generation: 0.39608137204602806
+thisqsasowersvcgrefessword
+
+Generation: 21
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1644155239805579
+Average population fitness value of this generation: 0.37735211523932277
+ehwsisasupersdsureqasssord
+
+Generation: 22
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1522623850777745
+Average population fitness value of this generation: 0.35888779695316214
+thssisesdpecsecurepasssord
+
+Generation: 23
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.15543694977536798
+Average population fitness value of this generation: 0.3407758982922845
+thesesesqpersepurefpssword
+
+Generation: 24
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.11352075948379935
+Average population fitness value of this generation: 0.3223689025409929
+thisisasuperseeurrtasssord
+
+Generation: 25
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.11352075948379935
+Average population fitness value of this generation: 0.3075389154950429
+thisisasuperseeurrtasssord
+
+Generation: 26
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10566559359189122
+Average population fitness value of this generation: 0.2930644156926418
+thisisasuprrsecurepasssord
+
+Generation: 27
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.1098358834914863
+Average population fitness value of this generation: 0.2793376306862556
+thcfisesupersecurepassword
+
+Generation: 28
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.11125299944728613
+Average population fitness value of this generation: 0.26292756245764115
+itisisasuperfepurepassword
+
+Generation: 29
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.09542276097796855
+Average population fitness value of this generation: 0.24705610000646658
+thisisasupersecuretassworq
+
+Generation: 30
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08800989595502613
+Average population fitness value of this generation: 0.23702909898354596
+thvsisasupersepurepassword
+
+Generation: 31
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.09811058467598631
+Average population fitness value of this generation: 0.22575015830288553
+thisiuasupersecurepassword
+
+Generation: 32
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08415314641157164
+Average population fitness value of this generation: 0.21472746128523398
+thisisasucersecureaassword
+
+Generation: 33
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08415314641157164
+Average population fitness value of this generation: 0.2064623135605215
+thisisasucersecureaassword
+
+Generation: 34
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08415314641157164
+Average population fitness value of this generation: 0.19619392877730812
+thisisasucersecureaassword
+
+Generation: 35
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08932503067292273
+Average population fitness value of this generation: 0.18779771074520737
+thisisashpersecureiassword
+
+Generation: 36
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.17702061862191368
+thisisasupersecurepassjord
+
+Generation: 37
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08424310535490513
+Average population fitness value of this generation: 0.17570612046362422
+thisisasucersecurepassword
+
+Generation: 38
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.16782524336872748
+thisisasupersecurepassjord
+
+Generation: 39
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08424310535490513
+Average population fitness value of this generation: 0.1646510409016625
+thisisasucersecurepassword
+
+Generation: 40
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.15962024858676094
+thvsisasupersecurepassqord
+
+Generation: 41
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.15728115604061146
+thisisasupersecurepassjord
+
+Generation: 42
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.1537725828806855
+thvsisasupersecurepassqord
+
+Generation: 43
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.15447111865706775
+thvsisasupersecurepassqord
+
+Generation: 44
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14828726313322416
+thvsisasupersecurepassqord
+
+Generation: 45
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.1492169807296151
+thvsisasupersecurepassqord
+
+Generation: 46
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.15160769253736042
+thvsisasupersecurepassqord
+
+Generation: 47
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14976369066959602
+thvsisasupersecurepassqord
+
+Generation: 48
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.1456563066916962
+thvsisasupersecurepassqord
+
+Generation: 49
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.14348308613033572
+thvsisasupersecurepassqord
+
+Generation: 50
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0835908835016191
+Average population fitness value of this generation: 0.1441044867723864
+thvsisasupersecurepassqord
+
+seed 5
+Generation: 1
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5362548801124096
+Average population fitness value of this generation: 0.7066594897847746
+ndicikmsuzfsfezufeeebtztaz
+
+Generation: 2
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5622717623263599
+Average population fitness value of this generation: 0.696948766466828
+mhoswsrwgoicrvhfjaekpsshjo
+
+Generation: 3
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.5207153994262218
+Average population fitness value of this generation: 0.6861225367612604
+shmseknsegapsnszbeecwswbse
+
+Generation: 4
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.49184900484085087
+Average population fitness value of this generation: 0.6782377180052959
+dhnspaqogybiofctrepaytgsce
+
+Generation: 5
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.49022624176740653
+Average population fitness value of this generation: 0.6692819915115717
+whzllfjsetgrsnpuvosatlhoot
+
+Generation: 6
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.48136867871582517
+Average population fitness value of this generation: 0.6600255081668004
+slhhisasvlmsruprdfgksswzky
+
+Generation: 7
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4758693545728922
+Average population fitness value of this generation: 0.6475420245135872
+gmwsisltflefbhnmbegvffworh
+
+Generation: 8
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4646350695759059
+Average population fitness value of this generation: 0.6315227471420518
+dtisiwdorseafezskatrsswzgv
+
+Generation: 9
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.418731192073226
+Average population fitness value of this generation: 0.6135675907488866
+bhisenashuttopcmrpeajsjhcj
+
+Generation: 10
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.4103261023119092
+Average population fitness value of this generation: 0.5938169792675704
+meisasawatqgzeciswpaiswepr
+
+Generation: 11
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.40438687818497426
+Average population fitness value of this generation: 0.5737496419000906
+setswmpsevayhecucejosssire
+
+Generation: 12
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3688123232662678
+Average population fitness value of this generation: 0.5535528247534938
+tqiseyzseiewseprsasamswbrz
+
+Generation: 13
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.33483480742871763
+Average population fitness value of this generation: 0.5355603188941944
+rhioisesbfesedtfreppsswoyr
+
+Generation: 14
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.3051866123124957
+Average population fitness value of this generation: 0.515443568929354
+tbcsisajdeeahecerfpasdporv
+
+Generation: 15
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.27966693471223114
+Average population fitness value of this generation: 0.496343657391541
+bsisusasqpesseeubejassdonj
+
+Generation: 16
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.2716581013157964
+Average population fitness value of this generation: 0.4760572577144967
+uhisqsauelerfbcprepasspold
+
+Generation: 17
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.2333303860738873
+Average population fitness value of this generation: 0.4568367378132028
+uhessdasupersesyqeuasswald
+
+Generation: 18
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.23902356627881527
+Average population fitness value of this generation: 0.4350713658761165
+ahzscsasapersecurpsasswoma
+
+Generation: 19
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.21471219358965754
+Average population fitness value of this generation: 0.4167958186435919
+ohisusasupeqsepicepassmocz
+
+Generation: 20
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.18453307273834943
+Average population fitness value of this generation: 0.39949906902378673
+zlesisasspersecuretnsswory
+
+Generation: 21
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.18684791620522737
+Average population fitness value of this generation: 0.38311619224285626
+taisisasuqersucurepesoworp
+
+Generation: 22
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.17810897611156104
+Average population fitness value of this generation: 0.362650787000062
+otmsisaszperhecurepasswolo
+
+Generation: 23
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.15399304354339835
+Average population fitness value of this generation: 0.34762190117210623
+whistsaszpersscuretasssard
+
+Generation: 24
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.12993172754347324
+Average population fitness value of this generation: 0.3305541990428801
+thiswsasupersecurejassworn
+
+Generation: 25
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.13136090461835265
+Average population fitness value of this generation: 0.31223246183390085
+thisssasdpersecurejasssorh
+
+Generation: 26
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.12529076421507634
+Average population fitness value of this generation: 0.2988572351934568
+ahisisasdpersecurepassdord
+
+Generation: 27
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10970573395341633
+Average population fitness value of this generation: 0.28383977384189985
+thisisasupersecuresasswort
+
+Generation: 28
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10783400073088704
+Average population fitness value of this generation: 0.2709282141374155
+thisisasupprsechretassword
+
+Generation: 29
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.10032449287436902
+Average population fitness value of this generation: 0.2585183431239405
+thisisasupersecuregasswold
+
+Generation: 30
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0935509949263185
+Average population fitness value of this generation: 0.2413867055621776
+thisisasupersecurepassjort
+
+Generation: 31
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.09804766034446656
+Average population fitness value of this generation: 0.2316200588666964
+ehisisasupersechrepassword
+
+Generation: 32
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08960133611448108
+Average population fitness value of this generation: 0.22197141818650792
+thisisasucersecuretassword
+
+Generation: 33
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08424310535490513
+Average population fitness value of this generation: 0.20592667215444763
+thisisasucersecurepassword
+
+Generation: 34
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08549664492905139
+Average population fitness value of this generation: 0.19743586968648602
+thisisasuperseaurepassjord
+
+Generation: 35
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.1920389492917696
+thisisasupersecurepassjord
+
+Generation: 36
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.18558327331367339
+thisisasupersecurepassjord
+
+Generation: 37
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.17519073849034614
+thisisasupersecurepassjord
+
+Generation: 38
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.1756064363480517
+thtsisasupersecurepassjord
+
+Generation: 39
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.17256679934423919
+thisisasupersecurepassjord
+
+Generation: 40
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08375742545872926
+Average population fitness value of this generation: 0.1650173464868946
+thisisasupersecurepassqoed
+
+Generation: 41
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08383855828158558
+Average population fitness value of this generation: 0.1590186769475302
+thisisasupersecurepassjord
+
+Generation: 42
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.156856537955518
+thtsisasupersecurepassjord
+
+Generation: 43
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.15698330913702652
+thtsisasupersecurepassjord
+
+Generation: 44
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.15207112075287724
+thtsisasupersecurepassjord
+
+Generation: 45
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.15197830371508805
+thtsisasupersecurepassjord
+
+Generation: 46
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08148059386014937
+Average population fitness value of this generation: 0.15240927644366584
+thgsisasupersecurepassjord
+
+Generation: 47
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08148059386014937
+Average population fitness value of this generation: 0.14913349623213204
+thgsisasupersecurepassjord
+
+Generation: 48
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.08148059386014937
+Average population fitness value of this generation: 0.147542758009455
+thgsisasupersecurepassjord
+
+Generation: 49
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.1484611548181636
+thtsisasupersecurepassjord
+
+Generation: 50
+Population size: 5000
+Maximum generations: 50
+Probability of crossover: 90%
+Probability of mutation: 10%
+Best fitness value of this generation: 0.0823477842003107
+Average population fitness value of this generation: 0.1470440060328492
+thtsisasupersecurepassjord
